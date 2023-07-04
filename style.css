@@ -1,0 +1,32 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    background-color: aqua;
+}
+
+p{
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.header_div{
+    background: whitesmoke;
+    color: black;
+}
+
+.main_div button{
+ margin-top: 20px;
+ width: 100px;
+ font-weight: bolder;
+ letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    background: whitesmoke;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 1;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
